@@ -14,7 +14,7 @@ li {
 
 .landing-sec {
   background-color: #20201f;
-  background-image: url(/images/landing-bg-2.png);
+  background-image: url(../../images/landing-bg-2.png);
   background-position: center top;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -304,7 +304,7 @@ li {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(/images/banner-bg.jpg);
+    background-image: url(../../images/banner-bg.jpg);
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center center;
@@ -458,7 +458,7 @@ li {
   height: 100%; }
   .banner-second .banner-second-content {
     width: 100%;
-    background-image: url(/images/accent-bolt.png);
+    background-image: url(../../images/accent-bolt.png);
     background-repeat: no-repeat;
     background-position: center -5%;
     background-size: 18% 80%;
@@ -619,7 +619,7 @@ li {
 
 .closing-banner {
   padding: 5% 0;
-  background-image: url(/images/bg-texture.jpg);
+  background-image: url(../../images/bg-texture.jpg);
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: center top;
@@ -652,7 +652,7 @@ li {
         width: auto;
         margin-bottom: 3%; } }
     .closing-banner .col-sm-6:nth-child(1) .closing-bg {
-      background-image: url(/images/brewhausbash-02.original.png);
+      background-image: url(../../images/brewhausbash-02.original.png);
       background-size: 120% auto; }
       @media screen and (max-width: 768px) {
         .closing-banner .col-sm-6:nth-child(1) .closing-bg {
@@ -672,7 +672,7 @@ li {
         .closing-banner .col-sm-6:nth-child(1) .button-ribbon {
           width: 70%; } }
     .closing-banner .col-sm-6:nth-child(2) .closing-bg {
-      background-image: url(/images/05_10_17-Mothers-093.original.jpg); }
+      background-image: url(../../images/05_10_17-Mothers-093.original.jpg); }
     .closing-banner .col-sm-6 .closing-mask, .closing-banner .col-sm-6 .closing-bg {
       position: absolute;
       top: 0;
@@ -810,7 +810,7 @@ li {
     padding: 0 1.5%;
     margin: 0; }
   .insta-feed .insta-header {
-    background-image: url(/images/accent-bolt.png);
+    background-image: url(../../images/accent-bolt.png);
     background-repeat: no-repeat;
     background-position: center 40%;
     background-size: auto 85%;
@@ -870,21 +870,21 @@ li {
           .insta-feed .insta-content .col-sm-3 .feed-bg {
             background-size: 100% 100%; } }
       .insta-feed .insta-content .col-sm-3:nth-child(1) .feed-bg, .insta-feed .insta-content .col-sm-3:nth-child(9) .feed-bg {
-        background-image: url(/images/insta/insta-1.jpg); }
+        background-image: url(../../images/insta/insta-1.jpg); }
       .insta-feed .insta-content .col-sm-3:nth-child(2) .feed-bg, .insta-feed .insta-content .col-sm-3:nth-child(10) .feed-bg {
-        background-image: url(/images/insta/insta-2.jpg); }
+        background-image: url(../../images/insta/insta-2.jpg); }
       .insta-feed .insta-content .col-sm-3:nth-child(3) .feed-bg, .insta-feed .insta-content .col-sm-3:nth-child(11) .feed-bg {
-        background-image: url(/images/insta/insta-3.jpg); }
+        background-image: url(../../images/insta/insta-3.jpg); }
       .insta-feed .insta-content .col-sm-3:nth-child(4) .feed-bg, .insta-feed .insta-content .col-sm-3:nth-child(12) .feed-bg {
-        background-image: url(/images/insta/insta-4.jpg); }
+        background-image: url(../../images/insta/insta-4.jpg); }
       .insta-feed .insta-content .col-sm-3:nth-child(5) .feed-bg, .insta-feed .insta-content .col-sm-3:nth-child(13) .feed-bg {
-        background-image: url(/images/insta/insta-5.jpg); }
+        background-image: url(../../images/insta/insta-5.jpg); }
       .insta-feed .insta-content .col-sm-3:nth-child(6) .feed-bg, .insta-feed .insta-content .col-sm-3:nth-child(14) .feed-bg {
-        background-image: url(/images/insta/insta-6.jpg); }
+        background-image: url(../../images/insta/insta-6.jpg); }
       .insta-feed .insta-content .col-sm-3:nth-child(7) .feed-bg, .insta-feed .insta-content .col-sm-3:nth-child(15) .feed-bg {
-        background-image: url(/images/insta/insta-7.jpg); }
+        background-image: url(../../images/insta/insta-7.jpg); }
       .insta-feed .insta-content .col-sm-3:nth-child(8) .feed-bg, .insta-feed .insta-content .col-sm-3:nth-child(16) .feed-bg {
-        background-image: url(/images/insta/insta-8.jpg); }
+        background-image: url(../../images/insta/insta-8.jpg); }
       .insta-feed .insta-content .col-sm-3 .feed-info {
         position: relative;
         background-color: rgba(243, 20, 43, 0.8);
